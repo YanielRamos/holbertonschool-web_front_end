@@ -1,0 +1,1 @@
+In this project we will learn how to use the developer tools on different browsers.
