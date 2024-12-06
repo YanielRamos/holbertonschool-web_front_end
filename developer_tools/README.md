@@ -1,4 +1,6 @@
-# Developer Tools Guide
+# Developer Tools 
+
+![Project Image](https://github.com/YanielRamos/holbertonschool-web_front_end/blob/main/developer_tools/devtools.jpeg)
 
 In this repository, you will explore various **Developer Tools** in your browser for web development. Below is a guide to what you’ll encounter:
 
