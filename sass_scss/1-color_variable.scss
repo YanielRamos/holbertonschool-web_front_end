@@ -1,7 +1,9 @@
 /* Declaring a variable that assigns a color to the body tag */
-$color: #3D3D3D
-body
-    color: $color
+$color: #3D3D3D;
 
-p
-    color: $color
+body {
+    color: $color;
+}
+p {
+    color: $color;
+}
