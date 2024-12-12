@@ -1,0 +1,7 @@
+/* Changing color to the first children of the body tag */
+body {
+    color: #3d3d3d;
+    .red:first-child {
+        color: #ff0000;
+    }
+}
