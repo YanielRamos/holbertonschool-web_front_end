@@ -1,10 +1,3 @@
-/* Using sort function to put the list on alphabetical order */
-@import "103-sort_list";
+@import '103-sort_list';
 
-$sorted_list: sort($list_to_sort);
-$names_list: "";
-
-@each $name in $sorted_list {
-  $names_list: #{$names_list} #{$name};
-}
-@debug $names_list;
+@debug sort($list_to_sort);
