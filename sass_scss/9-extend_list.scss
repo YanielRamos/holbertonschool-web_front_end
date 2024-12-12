@@ -1,12 +1,14 @@
 /* Changing font size, text color to classes and extended classes */
-.info, .success, .warning {
+.info{
     font-size: 12px;
 }
 
 .success {
+    @extend .info;
     color: #00ff00;
 }
 
 .warning {
+    @extend .info;
     color: #ff0000;
 }
