@@ -1,4 +1,4 @@
-![Web Development Art]([https://github.com/YanielRamos/holbertonschool-web_front_end/blob/main/image.png])
+![Image](https://github.com/YanielRamos/holbertonschool-web_front_end/blob/main/image.png)
 
 # Web Front End Development Projects
 
@@ -13,4 +13,4 @@ Welcome to this repository where you will find various projects related to web d
 - **Responsive Design**: Creating webpages that adapt seamlessly to different screen sizes using media queries and modern techniques.
 - **Sass/SCSS**: Enhancing CSS with Sass, variables, mixins, and other advanced features for better maintainability.
 
-![Web Development Art](./A_digital_artwork_that_represents_web_development_.png)
+
