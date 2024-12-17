@@ -1,4 +1,4 @@
-![Web Development Art](./A_digital_artwork_that_represents_web_development_.png)
+![Web Development Art]([https://github.com/YanielRamos/holbertonschool-web_front_end/blob/main/image.png])
 
 # Web Front End Development Projects
 
